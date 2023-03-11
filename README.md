@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm an Android developer interested in growth.
+#### I'm an Android developer interested in 'Growth Together'.
 #### I'm constantly learning and uploading what I learn to my [Blog](https://blog.naver.com/ksjmgrkks) and [GitHub](https://github.com/ksjmgrkks). 
 #### Recently, I've been studying *Jetpack Compose* and *clean app architecture*.
 #### If you want to know more about me, please visit my notion page below
