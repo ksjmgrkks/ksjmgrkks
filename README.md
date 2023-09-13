@@ -2,7 +2,7 @@
 
 #### I'm a mobile developer interested in 'Growth Together'.
 #### I'm constantly learning and uploading what I learn to my [Blog](https://blog.naver.com/ksjmgrkks) and [GitHub](https://github.com/ksjmgrkks). 
-#### Recently, I've been studying <img src="https://img.shields.io/badge/Jetpack Compose-3DDC84?style=for-the-badge&logo=JetpackCompose&logoColor=white"> and <img src="https://img.shields.io/badge/flutter-418EFE?style=for-the-badge&logo=flutter&logoColor=white">.
+#### Recently, I've been studying <img src="https://img.shields.io/badge/Jetpack Compose-3DDC84?style=for-the-badge&logo=JetpackCompose&logoColor=white"> and <img src="https://img.shields.io/badge/App Architecture-418EFE?style=for-the-badge&logo=android&logoColor=white">.
 #### If you want to know more about me, please visit my notion page below
 
 #### *My Notion Page* 
